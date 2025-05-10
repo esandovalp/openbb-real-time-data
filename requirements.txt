@@ -1,0 +1,6 @@
+pyspark
+kafka-python
+yfinance
+pandas
+jupyterlab
+matplotlib
